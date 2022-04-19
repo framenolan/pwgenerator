@@ -53,9 +53,9 @@ Then it converts pwArray to a string and updates the output within the display b
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Images
 
