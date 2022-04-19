@@ -1,6 +1,13 @@
-# pwgenerator
+# Password Generator
 
-Final deployed at https://framenolan.github.io/pwgenerator/
+[Deployed Site](https://framenolan.github.io/pwgenerator/)
+
+## Table of Contents
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Features](#features)
+* [Technologies](#technologies)
+* [Images](#images)
 
 ## User Story
 
@@ -43,3 +50,13 @@ Then it builds a different array that includes all characters of the selected ty
 Then it generates a random character from charPool and replaces each item in pwArray with the randomly selected character.
 
 Then it converts pwArray to a string and updates the output within the display box with the new randomly generated string.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Images
+
+![screenshot](https://user-images.githubusercontent.com/101062909/163897539-91a48ed6-9fad-404a-b932-fa82f8765284.png)
